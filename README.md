@@ -1,4 +1,3 @@
-# Online-Pharmacy
 # MedCare - Online Pharmacy Platform 🏥
 
 A modern, user-friendly online pharmacy platform built with React and Chakra UI, designed to provide seamless access to healthcare products and prescription services.
